@@ -2,6 +2,27 @@
   background-color: rgb(165, 255, 138);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
+#top {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 200px;
+  background-color: blue;
+}
+
+#navbar {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navlinks {
+  text-decoration: none;
+  font-weight: bold;
+  color: darkgreen;
+  padding: 5px;
+
 .div-2 {
   /* border: solid black; */
   width: 100vw;
