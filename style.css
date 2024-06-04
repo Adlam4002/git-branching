@@ -9,8 +9,7 @@
   position: relative;
   background-size: cover;
   background-position: center;
-  /* background-image: url("https://historyuk.s3.eu-west-2.amazonaws.com/s3fs-public/2023-08/shutterstock_2313750811.jpg?VersionId=L3heom6_o3mIIA61VixzWVWAs0Jy_kAm"); */
-  background-image: url("https://static.vecteezy.com/system/resources/previews/025/272/729/large_2x/dark-image-of-a-steel-bank-vault-free-photo.jpg");
+  background-image: url("https://ik.imagekit.io/panmac/tr:f-auto,w-740,pr-true//bcd02f72-b50c-0179-8b4b-5e44f5340bd4/ccdb3a19-7024-4aa5-8412-d8b74a189760/Introduction-to-science-fiction-The-best-sci-fi-books-for-newbies-to-the-genre-Header.jpg");
   display: flex;
   flex-direction: column;
   align-items: bottom;
