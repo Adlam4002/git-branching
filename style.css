@@ -3,6 +3,7 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+
 #top {
   display: flex;
   flex-direction: column;
@@ -21,4 +22,20 @@
   font-weight: bold;
   color: darkgreen;
   padding: 5px;
+
+.div-2 {
+  /* border: solid black; */
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://ik.imagekit.io/panmac/tr:f-auto,w-740,pr-true//bcd02f72-b50c-0179-8b4b-5e44f5340bd4/ccdb3a19-7024-4aa5-8412-d8b74a189760/Introduction-to-science-fiction-The-best-sci-fi-books-for-newbies-to-the-genre-Header.jpg");
+  display: flex;
+  flex-direction: column;
+  align-items: bottom;
+  justify-content: center;
+  color: rgb(2, 0, 92);
+  text-shadow: -1px -1px 0 #3b3b3b, 1px -1px 0 #3b3b3b, -1px 1px 0 #3b3b3b,
+    1px 1px 0 #3b3b3b;
 }
