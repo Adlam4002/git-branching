@@ -2,3 +2,30 @@
   background-color: rgb(165, 255, 138);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.expand-in-view {
+  width: 100vw;
+  height: 100vh;
+}
+.d3-flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+.d3-flex-direction-row {
+  flex-direction: row;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  text-align: center;
+}
+.d3-button-design {
+  text-decoration: none;
+}
+.d3-text-design {
+  text-indent: 1rem;
+  line-height: 1rem;
+}
+button a {
+  text-decoration: none;
+  color: white;
+}
