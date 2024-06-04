@@ -3,7 +3,6 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
 #top {
   display: flex;
   flex-direction: column;
@@ -22,6 +21,7 @@
   font-weight: bold;
   color: darkgreen;
   padding: 5px;
+}
 
 .div-2 {
   /* border: solid black; */
